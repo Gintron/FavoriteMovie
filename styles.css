@@ -1,0 +1,56 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+body{
+  margin-top: 1rem;
+  background-color: #8BC6EC;
+  min-height: 100vh;
+}
+
+#david-image{
+  margin-top: 1rem; 
+  width: 100px;
+  height: 100px;
+}
+#david-image:hover{
+  cursor: pointer;
+  opacity: 90%;
+}
+#marijan-image{
+  margin-top: 1rem; 
+  width: 100px;
+  height: 100px;
+}
+#marijan-image:hover{
+  cursor: pointer;
+  opacity: 90%;
+}
+.container-fluid{
+  padding: 2rem 10rem;
+}
+
+.jumbotron{
+  opacity: 80%;
+  margin-top: 0;
+}
+
+footer{
+  color: grey;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.movie-button{
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.about-button{
+margin-bottom: 1rem;
+}
+
+.audio{
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
